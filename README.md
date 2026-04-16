@@ -111,16 +111,26 @@ streamlit run app/streamlit_app.py
 
 ---
 
-## 📊 Results
+---
 
-* Forecast vs actual visualization
-* Inventory recommendations:
+## 📊 Dashboard Features
 
-  * Safety stock
-  * Reorder point
+- 📈 Sales Analysis with trend visualization  
+- 🔮 Demand Forecasting using Machine Learning  
+- 📦 Inventory Optimization using Safety Stock & Reorder Point  
+- 🧠 ABC Analysis for product prioritization  
+- 📊 Multi-page interactive dashboard built using Streamlit  
 
+---
 
-  ---
+## 📈 Key Results
+
+- Improved demand prediction accuracy using Random Forest  
+- Reduced stockout risk using safety stock calculation  
+- Optimized inventory levels using reorder point logic  
+- Built an end-to-end analytics system from data to decision  
+
+---
 
 ## 📈 Business Value
 
