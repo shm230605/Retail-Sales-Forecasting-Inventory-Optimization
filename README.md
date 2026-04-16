@@ -119,6 +119,26 @@ streamlit run app/streamlit_app.py
   * Safety stock
   * Reorder point
 
+
+  ---
+
+## 📸 Dashboard Images
+
+### 📊 Overview
+![Overview](images/overview.png)
+
+### 📈 Sales Analysis
+![Sales](images/sales.png)
+
+### 🔮 Forecasting
+![Forecast](images/forecasting.png)
+
+### 📦 Inventory Optimization
+![Inventory](images/inventory.png)
+
+### 🧠 Full Dashboard
+![Dashboard](images/dashboard.png)
+
 ---
 
 ## 📈 Business Value
